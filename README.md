@@ -16,7 +16,7 @@
   Open mysql and source schema.sql. Then, npm run seed and npm start.
 
   ## Usage 
-  [e-commerce video](video link goes here)
+  [e-commerce video](https://drive.google.com/file/d/14L6opLW2zJrunBXj8zTZ4QcALzMdjx3B/view)
   
   ## Contributions 
   Contributions are welcome. 
